@@ -21,7 +21,7 @@ main {
   width: 444px;
   padding: 2rem;
   border-radius: 1rem;
-  padding-bottom: 4rem;
+  padding-bottom: 3.5rem;
   position: relative;
 }
 @media (max-width: 520px) {
@@ -43,6 +43,8 @@ h5 {
 p {
   font-size: 28px;
 }
+
+/* Dice */
 main::before {
   content: "";
   border-radius: 50%;
